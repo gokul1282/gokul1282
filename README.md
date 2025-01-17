@@ -3,10 +3,11 @@
 ------------------------------
 
 I've completed my B.Tech in Computer Science from Vellore Institute of Technology, Vellore 🎓. 
+
 Security Analyst with Expertise in Cloud Security, Vulnerability Management and Compliance | Experienced in SIEM Optimization & Penetration Testing | Strong Knowledge of Azure cloud and Security Tools like Splunk, Burp suite, Nessus & Qualys.
 
-- 📚 I'm passionate about **cybersecurity** and currently exploring different areas of this field. 
-- 🤝🏽 I’m open to collaborating on **CyberSecurity** projects.
+- 📚 I'm passionate about **CyberSecurity** and currently exploring different areas of this field. 
+- 🤝🏽 I’m open to collaborating on **CyberSec** projects.
 - 😄 Pronouns: He/Him👨🏽.
 - ⚡ Fun fact: I love listening to music. 
 
