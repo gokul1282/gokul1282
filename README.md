@@ -27,7 +27,19 @@ Security Analyst with Expertise in Cloud Security, Vulnerability Management and 
     <img src="https://img.shields.io/badge/expressjs-%23007ACC.svg?&style=for-the-badge&logo=expressjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/reactjs-%23E34F26.svg?&style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/nodejs-%23007ACC.svg?&style=for-the-badge&logo=nodejs&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> -->
+ <img src="https://img.shields.io/badge/Splunk%20-%2314354C.svg?&style=for-the-badge&logo=Splunk&logoColor=white"/>
+ 
+ <img src="https://img.shields.io/badge/Microsoft Azure-%23F05033.svg?&style=for-the-badge&logo=Microsoft Azure&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Kali Linux-%23339933.svg?&style=for-the-badge&logo=Kali-Linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp suite-%23F7DF1E.svg?&style=for-the-badge&logo=Burp suite&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Nessus-%2361DAFB.svg?&style=for-the-badge&logo=Nessus&logoColor=white"/>
+   
+   
+  
+ 
+ 
+ 
+ <!--   <img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> -->
 
 </p>
 </details>
