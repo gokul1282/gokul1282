@@ -2,11 +2,11 @@
 
 ------------------------------
 
-I'm currently pursuing my B.Tech in Computer Science from Vellore Institute of Technology, Vellore 🎓. 
-I'm a MERN Stack Web Developer & I'm also exploring the field of cyber security.   
+I've completed my B.Tech in Computer Science from Vellore Institute of Technology, Vellore 🎓. 
+Security Analyst with Expertise in Cloud Security, Vulnerability Management and Compliance | Experienced in SIEM Optimization & Penetration Testing | Strong Knowledge of Azure cloud and Security Tools like Splunk, Burp suite, Nessus & Qualys.
 
-- 📚 I’m currently learning **DS-Algo**.
-- 🤝🏽 I’m open to collaborating on **Web Dev** projects.
+- 📚 I'm passionate about **cybersecurity** and currently exploring different areas of this field. 
+- 🤝🏽 I’m open to collaborating on **CyberSecurity** projects.
 - 😄 Pronouns: He/Him👨🏽.
 - ⚡ Fun fact: I love listening to music. 
 
